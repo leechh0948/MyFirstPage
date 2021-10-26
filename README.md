@@ -7,6 +7,7 @@ My First Github Repository
   * leechh0948@gmail.com
 
 ## Hobby
+<<<<<<< HEAD
  1. Game
  2. Study
  3. Read a book
@@ -16,3 +17,9 @@ My First Github Repository
  - [x] 3D Animation
  - [ ] Visual Effect
  - [ ] Game Engine
+=======
+ > Game
+ > Study
+ > Read a book
+ > Room Interior
+>>>>>>> parent of 0a0a5cc (Fix Hobby)
