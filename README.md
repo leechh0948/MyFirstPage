@@ -7,7 +7,7 @@ My First Github Repository
   * leechh0948@gmail.com
 
 ## Hobby
- > Game
- > Study
- > Read a book
- > Room Interior
+ 1. Game
+ 2. Study
+ 3. Read a book
+ 4. Room Interior
