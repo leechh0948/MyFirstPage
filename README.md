@@ -1,7 +1,7 @@
 # MyFirstPage
 My First Github Repository
 
-# My Introduce
+## My Introduce
   * Lee ChoongHyuk / Korean / Age 19
   * Seoul Arts of Institute
   * leechh0948@gmail.com
