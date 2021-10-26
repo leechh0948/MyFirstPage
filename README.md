@@ -5,9 +5,9 @@ My First Github Repository
   * Lee ChoongHyuk / Korean / Age 19
   * Seoul Arts of Institute
   * leechh0948@gmail.com
+  * Hello
 
 ## Hobby
-<<<<<<< HEAD
  1. Game
  2. Study
  3. Read a book
