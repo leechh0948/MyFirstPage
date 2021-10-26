@@ -17,8 +17,3 @@ My First Github Repository
  - [x] 3D Animation
  - [ ] Visual Effect
  - [ ] Game Engine
-=======
- > Game
- > Study
- > Read a book
- > Room Interior
