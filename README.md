@@ -6,6 +6,8 @@ My First Github Repository
   * Seoul Arts of Institute
   * leechh0948@gmail.com
   * Hello
+  > 세상에 착한 사람은 없더라
+
 
 ## Hobby
  1. Game
