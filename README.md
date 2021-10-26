@@ -22,4 +22,3 @@ My First Github Repository
  > Study
  > Read a book
  > Room Interior
->>>>>>> parent of 0a0a5cc (Fix Hobby)
