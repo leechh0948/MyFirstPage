@@ -11,8 +11,3 @@ My First Github Repository
  2. Study
  3. Read a book
  4. Room Interior
-
-## To Do
- - [x] 3D Animation
- - [ ] Visual Effect
- - [ ] Game Engine
